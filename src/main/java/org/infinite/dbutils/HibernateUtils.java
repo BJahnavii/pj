@@ -9,6 +9,9 @@ public class HibernateUtils {
 	private static SessionFactory buildSessionFactory() {
 		SessionFactory sessionFactory = null;
 		try {
+			
+			
+			
 			// Create the configuration object.
 			Configuration configuration = new Configuration();
 			// Initialize the configuration object with the configuration file
