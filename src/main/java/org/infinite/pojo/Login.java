@@ -39,6 +39,9 @@ public class Login {
 	public Login()
 	{
 		
+		
+		
+		
 	}
 	public int getIds() {
 		return ids;
