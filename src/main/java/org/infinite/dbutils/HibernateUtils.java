@@ -12,6 +12,10 @@ public class HibernateUtils {
 			
 			
 			
+			
+			
+			
+			
 			// Create the configuration object.
 			Configuration configuration = new Configuration();
 			// Initialize the configuration object with the configuration file
