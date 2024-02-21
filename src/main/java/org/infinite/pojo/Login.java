@@ -12,6 +12,9 @@ public class Login {
 	
 	
 	
+	
+	
+	
 	public java.sql.Timestamp getLogintmp() {
 		return logintmp;
 	}
