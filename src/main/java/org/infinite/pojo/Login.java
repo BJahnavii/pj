@@ -10,6 +10,8 @@ public class Login {
 	private String password;
 	private java.sql.Timestamp logintmp;
 	
+	
+	
 	public java.sql.Timestamp getLogintmp() {
 		return logintmp;
 	}
