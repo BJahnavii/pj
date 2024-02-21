@@ -17,6 +17,10 @@ public class HibernateUtils {
 			// Get the SessionFactory object from configuration.
 			sessionFactory = configuration.buildSessionFactory();//open the session
 		} catch (Exception e) {
+			
+			
+			
+			
 			e.printStackTrace();
 		}
 		return sessionFactory;
